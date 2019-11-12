@@ -1,0 +1,76 @@
+body {
+
+}
+
+nav .buton{
+	height: 40px;
+	width: 162px;
+	background: linear-gradient(to right,#3529E2,#4EA6D9);
+	border-radius: 60px;
+	margin: 5px 10px;
+	font-family: nunito sans;
+	font-weight: bold;
+
+}
+
+nav {
+box-shadow: 2px 0px 20px rgba(184, 180, 180, 0.6);
+
+}
+
+
+.jumbotron img{
+	width: 400px;
+	height: 300px;
+}
+
+
+
+.jumbotron a{
+	height: 50px;
+	width: 162px;
+	background: linear-gradient(to right,#3529E2,#4EA6D9);
+	text-align: center;
+	border-radius: 60px;
+	font-family: nunito sans;
+	border: none;
+
+}
+
+
+/*fitur*/
+
+.fitur a{
+	padding-bottom: 10px;
+}
+
+.fitur img{
+	width: 100px;
+	height: 100px;
+}
+
+.fitur h1 ,h2 {
+font-family: nunito sans;
+
+
+}
+
+.fitur h3{
+font-family: nunito sans;
+font-size: 18px;
+}
+
+/*fitur*/
+
+
+
+/*
+.langkah img{
+	width: 100px;
+	height: 500px;
+}*/
+
+.fitur {
+	    padding-top: 10px;
+    padding-bottom: 10px;
+}
